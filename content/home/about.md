@@ -12,31 +12,41 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Mathematical Modelling",
+    "Computational Science",
+    "Finance"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Modelling and Computational Science (Candidate)"
+  institution = "University of Ontario Institute of Technology"
+  year = "2015 - 2017"
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BSc in Applied and Industrial Mathematics"
+  institution = "University of Ontario Institute of Technology"
+  year = "2011 - 2015"
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a MSc Candidate at the University of Ontario Institute of Technology. In 2015 I completed my Bachelor's of Science in Applied and Industrial Mathematics, with a minor in Computational Science, and began my Master's in Modelling and Computational Sciences. I enjoy applying my knowledge learned throughout my degrees to projects of my own. I have experience in scientific high-preformance computing to computer graphics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Regularly used programming languages:
+
+* Python,
+* MATLAB,
+* Fortran
+
+Past experience in:
+
+* Java,
+* TCL,
+* OpenGL,
+* SQL,
+* C/C++
+
+[Download my CV!](https://danielpasut.com/documents/Pasut_Daniel_CV.pdf)
