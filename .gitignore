@@ -1,7 +1,12 @@
 .*~
-
+\#*\#
+.\#*
 ## AuCTeX
 auto/*
+
+# ignore public hugo creation
+public/
+
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
