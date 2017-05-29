@@ -25,9 +25,9 @@ defaultContentLanguageInSubdir = false
   organization_url = "https://www.uoit.ca/"
   avatar = "portrait.jpg"
   email = "daniel@pasut.ca"
-  address = "11 Elsfield Road, Toronto, Ontario, Canada"
+  address = "Toronto, Ontario, Canada"
   office_hours = ""
-  phone = "+1 (905) 926 3638"
+  phone = ""
   skype = ""
   telegram = ""
 
@@ -86,7 +86,7 @@ defaultContentLanguageInSubdir = false
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   custom_css = []
-  custom_js  = []
+  custom_js  = ["menu.js"]
 
   # Publication types.
   #   Used to categorize publications.

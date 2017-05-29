@@ -3,7 +3,7 @@ abstract = "Electrophoresis is widely used to sort DNA and polymers by size and 
 abstract_short = ""
 authors = ["Daniel Pasut"]
 date = "2015-04-04"
-image_preview = ""
+image_preview = "system.png"
 math = true
 publication_types = ["7"]
 publication = "University of Ontario Institute of Technology Undergraduate Honours Thesis"
@@ -20,9 +20,10 @@ url_video = ""
 
 
 # Optional featured image (relative to `static/img/` folder).
-#[header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption :smile:"
+[header]
+image = "headers/system.png"
+caption = "Representation of the system."
+
 
 +++
 
