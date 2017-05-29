@@ -33,7 +33,7 @@ weight = 1
 
 # Biography
 
-I am a MSc Candidate at the University of Ontario Institute of Technology. In 2015 I completed my Bachelor's of Science in Applied and Industrial Mathematics, with a minor in Computational Science, and began my Master's in Modelling and Computational Sciences. I enjoy applying my knowledge learned throughout my degrees to projects of my own. I have experience in scientific high-preformance computing to computer graphics.
+I am a MSc Candidate at the University of Ontario Institute of Technology. In 2015 I completed my Bachelor's of Science in Applied and Industrial Mathematics, with a minor in Computational Science, and began my Master's in Modelling and Computational Sciences. I enjoy applying my knowledge learned throughout my degrees to projects of my own. I have experience in scientific high-performance computing to computer graphics.
 
 Regularly used programming languages:
 
@@ -48,5 +48,7 @@ Past experience in:
 * OpenGL,
 * SQL,
 * C/C++
+
+I'm currently located at [C.L.A.I.M.](http://claimlab.science.uoit.ca/) (UOIT) under the supervision of [Dr. Sean Bohun](http://www.seanmathmodelguy.com). My thesis focuses on modelling magnetically induced cell-colonized porous scaffolds. Cell-colonized porous scaffolds are essential to the field of tissue engineering. Using cells that are seeded with magnetic particles allows for controlled placement of the cells throughout the scaffold. I aim to develop accurate models that describe this technique that can be verified experimentally.
 
 [Download my CV!](https://danielpasut.com/documents/Pasut_Daniel_CV.pdf)
