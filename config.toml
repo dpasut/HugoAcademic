@@ -85,7 +85,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = [""]
   custom_js  = ["menu.js"]
 
   # Publication types.
@@ -102,7 +102,8 @@ defaultContentLanguageInSubdir = false
     'Technical report',  # 4
     'Book',  # 5
     'Book chapter',  # 6
-    'Thesis' # 7
+    'Thesis', # 7
+    'Workshop proceedings' # 8
   ]
 
   # Social/Academic Networking
